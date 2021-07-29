@@ -1,6 +1,6 @@
 ## Assalamu Alaikum 👋
 
-- 🔭 I’m currently working on [sManager](https://www.smanager.xyz)
+- 🔭 I’m currently working on [sManager](https://www.smanager.xyz) and [Ruby Finance](https://www.rubyfinance.nl/)
 - 🌱 I’m currently learning Javascript, Nodejs, Reactjs, PHP, Laravel, Tailwind CSS and so on...
 - 😄 I like to Solve Problems and Healthy competition with Others. 
 - 👯 I’m looking to collaborate on where I can.
