@@ -1,4 +1,12 @@
-### Hi there 👋
+## Assalamu Alaikum 👋
+
+- 🔭 I’m currently working on Sheba Platform Limited
+- 🌱 I’m currently learning Javascript, Nodejs, Reactjs, PHP, Laravel, Tailwind CSS and so on...
+- 😄 I like to Solve Problems and Healthy competition with Others. 
+- 👯 I’m looking to collaborate on where I can.
+- 💬 Ask me about Books.
+- 📫 How to reach me: inafeeur@gmail.com
+- ⚡ Fun fact: Fun with Decency.
 
 <!--
 **nafeeur10/nafeeur10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
