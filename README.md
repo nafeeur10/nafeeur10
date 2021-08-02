@@ -8,6 +8,9 @@
 - 📫 How to reach me: inafeeur@gmail.com
 - ⚡ Fun fact: Fun with Decency.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafeeur10)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **nafeeur10/nafeeur10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
