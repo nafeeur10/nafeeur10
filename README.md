@@ -7,6 +7,7 @@
 - 💬 Ask me about Books.
 - 📫 How to reach me: inafeeur@gmail.com
 - ⚡ Fun fact: Fun with Decency.
+- ![](https://komarev.com/ghpvc/?username=nafeeur10&color=green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nafeeur10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
