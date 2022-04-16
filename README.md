@@ -1,6 +1,6 @@
 ## Assalamu Alaikum 👋
 
-- 🔭 I’m currently working on [sManager](https://www.smanager.xyz) and [Zubi.ai](https://engage.zubi.ai)
+- 🔭 I’m currently working on [VantageSportz](https://vantage.com/)
 - 🌱 I’m currently learning Javascript, Nodejs, Reactjs, PHP, Laravel, Tailwind CSS and so on...
 - 😄 I like to Solve Problems and Healthy competition with Others. 
 - 💬 Ask me about Books.
