@@ -1,6 +1,6 @@
 ## Assalamu Alaikum 👋
 
-- 🔭 I’m currently working at [Akij iBOS Limited](https://aeroapps.io)
+- 🔭 I’m currently working at [CPTN Limited](https://cptn-apps.com)
 - 🌱 Learning System Design, Javascript, PHP and so on...
 - 😄 I like to Solve Problems and Healthy competition with Others. 
 - 💬 Ask me about Books.
